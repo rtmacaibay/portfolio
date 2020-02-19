@@ -1,0 +1,14 @@
+﻿div {
+    width: 100px;
+    height: 100px;
+    display: inline-grid;
+    margin-top: -5px;
+}
+
+.one {
+    background-color: indigo;
+}
+
+.two {
+    background-color: gold;
+}
